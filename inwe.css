@@ -71,7 +71,7 @@ height: 330px;
 margin: auto;
 margin-top: 40px;
 border-radius: 5px;
-box-shadow: 4px 4px 5px lightblue;
+box-shadow: 4px 4px 5px magenta;
 text-align: center
 }
 .main3
@@ -79,17 +79,15 @@ text-align: center
 
 background-color: lightgray;
 color: black ;
-width: 320px ;
-height: 500px;
+width: 1100px ;
+height: auto;
 margin: auto;
 margin-top: 5px;
 border-radius: 5px;
-box-shadow: 4px 4px 5px lightblue;
+box-shadow: 4px 4px 5px magenta;
 text-align: center
 }
-
-
-    .main6
+.main6
  {
   background-color: lightgray;
   color: black ;
@@ -110,61 +108,12 @@ text-align: center
   height: auto;
   margin: auto;
   margin-top: 20px;
+  margin-left: 20px;
   border-radius: 5px;
-  box-shadow: 4px 4px 5px lightblue;
+  box-shadow: 4px 4px 5px magenta;
   text-align: left;
  }
- .main8
- {
-background-color: lightgreen;
-color: black ;
-width: 420px ;
-height: 490px;
-margin: auto;
-margin-top: 5px;
-border-radius: 5px;
-box-shadow: 4px 4px 5px lightblue;
-text-align: center
- }
- .main9
- {
-  background-color: lightgreen;
-  color: black ;
-  width: 420px ;
-  height: 500px;
-  margin: auto;
-  margin-top: 5px;
-  border-radius: 5px;
-  box-shadow: 4px 4px 5px lightblue;
-  text-align: center;
-  font-size: medium ;
- }
- .main10
- {
-  background-color: lightgreen;
-  color: black ;
-  width: 420px ;
-  height: 510px;
-  margin: auto;
-  margin-top: 5px;
-  border-radius: 5px;
-  box-shadow: 4px 4px 5px lightblue;
-  text-align: center;
- }
- .main11
- {
-  background-color: lightgreen;
-  color: black ;
-  width: auto ;
-  height: 560px;
-  margin-right: 12px;
-  margin-left: 20px;
-  margin-top: 5px;
-  border-radius: 5px;
-  box-shadow: 4px 4px 5px lightblue;
-  text-align: center
- }
- 
+
 .button 
 {
   background-color: #008CBA; 
@@ -204,7 +153,6 @@ text-align: center
   padding: 12px 28px;
 
 }
-
 .button3
 {
   background-color: #df217a; 
@@ -218,7 +166,6 @@ text-align: center
   padding: 12px 28px;
 
 }
-
 .button4
 {
   background-color: #f43665; 
@@ -258,3 +205,15 @@ text-align: center
  {
   text-align: center;
  }
+ .p
+ {
+  float: left;
+  text-align: left;
+  margin-left: 20px;
+ }
+ .por
+ {
+  text-align: right;
+  margin-right: 30px;
+ }
+ 
